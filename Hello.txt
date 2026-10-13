@@ -1,1 +1,3 @@
 Hello Everyone !!!
+Take input from user 
+and add the values
