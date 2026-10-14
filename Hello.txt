@@ -1,6 +1,0 @@
-Hello Everyone !!!
-Take input from user 
-and add the values
-ok
-
-submit data to a database
